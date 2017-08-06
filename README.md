@@ -1,0 +1,2 @@
+# insafelinks
+Kode Js Safelink
